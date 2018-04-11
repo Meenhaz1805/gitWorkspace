@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello meenhaz, i know you are just about to complete this. But we have got a production bug.Awww, you worked so hard. Noboby gives a ****.
+=======
+hello meenhaz, i know you are just about to complete this. But we have got a production bug.Fuck this, Fuck that.
+>>>>>>> master
